@@ -1,0 +1,16 @@
+# Django cache
+**/__pycache__/
+*.py[cod]
+
+# Django database migrations
+*/migrations/*
+
+# Django cache files
+**/*.cache
+
+# Celery beat schedule files
+celerybeat-schedule
+
+# Django static and media files (if managed outside version control)
+staticfiles/
+media/
